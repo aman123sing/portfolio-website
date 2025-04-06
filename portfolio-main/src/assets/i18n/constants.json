@@ -1,0 +1,103 @@
+{
+    "Header": {
+        "Item1" : "About me",
+        "Item2" : "Experience",
+        "Item3" : "Projects",
+        "Item4" : "Contact",
+        "cvBtn" : "Resume",
+        "cvName": "CV_Aman_Singh.pdf"
+    },
+    "Banner": {
+        "Pretitle": "Hello! My name is",
+        "Description": "I'm a <span class='underline'>Network Engineer</span> with a degree in Computer Science and Engineering graduate from <span class='underline'>Vellore Institute of Technology</span> (CGPA: 7.56/10). Passionate in Networking With hands-on experience in designing and configuring robust network infrastructures using <span class='underline'>Cisco</span>, Suscessfully implemented secure and scalable networks for complex environments and completed projects utilizing Cisco Packet Tracer. Proficient in key protocols like TCP/IP, Switches, Routers and LAN/WAN, Pursuing the <span class='underline'>Cisco Certified Network Associate (CCNA 200-301)</span> to further enhance my technical skills.",
+        "ActionBtn": "Get in touch"
+    },
+    "About": {
+        "Title": "About me",
+        "Paragraphs": [
+            "I've honed my skills in <span class='underline'>CICSO</span>, <span class='underline'>.Routers</span>, and <span class='underline'>Switches</span>. Leveraging CISCO services has not only made deployment seamless but also optimize solutions, enhancing the overall performance and reliability of the Project I've worked on.",
+            "Throughout my experience, I've built <span class='underline'>Networks</span>, I've also spearheaded in <span class='underline'>designing and configuring network</span> infrastructures, developing a robust framework for effortless projects automation within the team." ,
+            "Some of the technologies that I have trained and worked on include (but are not limited to):"
+        ]
+    },
+    "Experience":{
+        "Title": "Experience",
+        "Jobs": [{
+                "Tab": "NetworkKings",
+                "Title": "Network Intern",
+                "Logo": "./../../../../assets/images/jobs/network.png",
+                "Date": "November 2024 - Present",
+                "Description": [
+                  "Gained hands-on experience in designing and configuring network  infrastructures, including routing, switching, and security protocols.",
+                  "Worked on real-world network simulation projects using Cisco Packet Tracer.",
+                  "Gained knowledge of key networking concepts such as TCP/IP, subnetting, Switch and routing.",
+                  "Working on CISCO Routers- 2300, 3900 series and CISCO Switches- 2960, 3560, 3750 Series."
+                ]
+            }
+
+                
+            
+        ]},
+    "FeatureProjects":{
+        "Title": "My projects",
+        "Label": "Featured Project",
+        "Projects": [{
+                "Title": "Secure Link",
+                "Description": "This project focuses on designing and implementing a <span class='underline'>secure network for a telecommunication company</span> with two floors hosting various departments, using <span class='underline'>Cisco</span> devices for VoIP, WLAN, and central management. The company requires a high-performance, scalable, and redundant network infrastructure, utilizing specific <span class='underline'>IP address</span> ranges for WLAN, LAN, Voice, DMZ, and public addresses..",
+                "imgs": [
+                    "assets/images/Secure_Link/Telecommunication.png",
+                    "assets/images/Secure_Link/Telecommunication.png"
+                ],
+                "Technologies": ["CISCO", "Routers", "Switches"]
+            },
+            {
+                "Title": "Campus Connect Using Cisco",
+                "Description": "This project aims to provides a comprehensive network structure for a large campus, using multiple routing protocols and Frame Relay technology to manage traffic, ensure security, and enable seamless communication between various departments and buildings.The Objectives of this project is to design and simulate a company network using Cisco Packet Tracer, focusing on gaining hands-on experience with network setup and understanding key networking protocols.",
+                "imgs": [
+                    "assets/images/campus/campus.png",
+                    "assets/images/campus/campus.png"
+                ],
+                "Technologies": ["CISCO", "Routers", "Switches"]
+            }]
+        },
+    "OtherProjects":{
+        "Title": "More projects",
+        "Projects": [{
+                "Title": "SkillGrader",
+                "Description": "The educational platform facilitates university teachers in uploading lecture recordings, tests, and grading student submissions. Students can access the recordings, prepare for tests, and submit their assignments, earning credits based on their grades to fulfill course completion requirements.",
+                "ghLink": "https://github.com/aman123sing/Skill-Grader",
+                "Technologies": ["NodeJS", "Express", "MySQL", "HTML", "CSS"]
+            },
+            {
+                "Title": "Caption Generator",
+                "Description": "The website enables users to upload pictures and automatically generates captions using various NLP techniques, including tokenization, stop words removal, and next word prediction. ",
+                "ghLink": "https://github.com/aman123sing/Caption-Generator",
+                "Technologies": ["HTML", "CSS", "NLP", "Machine Learning"]
+            },
+            {
+                "Title": "Analyzing Amazon Sales",
+                "Description": "Sales management has gained importance to meet increasing competition and the need for improved methods of distribution to reduce cost and to increase profits. Sales management today is the most important function in a commercial and business enterprise.",
+                "ghLink": "https://github.com/aman123sing/Analyzing_Amazon_Sales_Project",
+                "Technologies": ["SQL", "Tablue", "PowerBi", "Python"]
+            },
+            {
+                "Title": "StudySmart GRE",
+                "Description": "A GRE website which offers flashcards and quizzes to help students improve their verbal and math skills. It provides customized study materials to prepare for the exam effectively.",
+                "ghLink": "https://github.com/aman123sing/StudySmart-GRE",
+                "Technologies": ["Python", "Flask", "PostgreSQL", "HTML", "CSS"]
+            },
+            {
+                "Title": "Blogify Hub",
+                "Description": "A blog platform where users can authenticate, create their own blogs, and explore content written by others. Users have the flexibility to include pictures, emojis, and text in their blog posts.",
+                "ghLink": "https://github.com/aman123sing/Blogify",
+                "Technologies": ["Python", "Django", "MySQL", "HTML", "CSS"]
+            }]
+        },
+    "Contact":{
+        "Pretitle": "What’s Next",
+        "Title": "Get in touch!",
+        "Content": "Feel free to reach out by clicking the button below to send me a message. Whether you have inquiries, job opportunities, or just want to say hello, I'm always eager to hear from you. Let's start a conversation!",
+        "Btn": "Say Hello"
+    }
+
+}

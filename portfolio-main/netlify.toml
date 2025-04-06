@@ -1,0 +1,9 @@
+[build]  
+    command = "CI='' npm run build"  
+    publish = "dist/amansingh-portfolio"  
+    base ="/"
+    
+[[redirects]]  
+    from = "/*"  
+    to = "/index.html"
+    status = 200
