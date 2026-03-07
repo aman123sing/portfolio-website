@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Amazon Sales Analyzing",
+    "desc": "Created Power BI Dashboard providing an interactive view of Amazons global sales data, and analyze different aspects of the business by interacting with various section.",
+    "image": "Amazon Sales Analyzing",
+    "category": "Analysis",
+    "links": {
+      "view": "https://github.com/aman123sing/Analyzing_Amazon_Sales_Project.git",
+      "code": "https://github.com/aman123sing/Analyzing_Amazon_Sales_Project.git"
+    }
+  },
+  {
+    "name": "Municipality Management System",
+    "desc": "Created Municipality Management System to keep record of municipality and interact with the citizen. HTML, CSS, JAVASCRIPT, NodeJS, MongoDB",
+    "image" : "Municipality Management System",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/singh5929/Municipality-Management-System.git",
+      "code": "https://github.com/singh5929/Municipality-Management-System.git"
+    }
+  },
+  {
+    "name": "Medicine Recommendation System",
+    "desc": "This system allows users to input symptoms, such as coughing, itching, sleeping, or aching, and predicts potential diseases accurately",
+    "image": "Medicine Recommendation System",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/aman123sing/MEDICINE-RECOMMENDATION-SYSTEM.git",
+      "code": "https://github.com/aman123sing/MEDICINE-RECOMMENDATION-SYSTEM.git"
+    }
+  },
+  {
+    "name": "Virus Intrusion Detection System Using Antivirus",
+    "desc": "Created Antivirus to detect, scan and remove Virus from the file using Antivirus",
+    "image": "Virus Intrusion Detection System Using Antivirus",
+    "category": "Analysis",
+    "links": {
+      "view": "https://github.com/singh5929/VIRUS-INTRUSION-AND-DETECTION-SYSTEM-USING-ANTIVIRUS.git",
+      "code": "https://github.com/singh5929/VIRUS-INTRUSION-AND-DETECTION-SYSTEM-USING-ANTIVIRUS.git"
+    }
+  },
+  {
+    "name": "NewsReader Chrome Extension",
+    "desc": "This project is based on the detection of fake news using machine learning and deep learning algorithms.",
+    "image": "newsreader",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/aman123sing/NewsReader-Chrome-Extension.git",
+      "code": "https://github.com/aman123sing/NewsReader-Chrome-Extension.git"
+    }
+  },
+  {
+    "name": "File Management System",
+    "desc": "Created File Management System to send Files between specified employees of the Company. HTML, CSS, JAVASCRIPT, PHP, MYSQL",
+    "image": "File Management System",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/singh5929/File-Management-System.git",
+      "code": "https://github.com/singh5929/File-Management-System.git"
+    }
+  },
+  {
+    "name": "Malicious Pdf Detection",
+    "desc": "This project is based on the concept of detecting malicious pdf using machine learning and deep learning algorithms.",
+    "image": "pdfdetection",
+    "category": "Analysis",
+    "links": {
+      "view": "https://github.com/aman123sing/Malicious-Pdf-Detection.git",
+      "code": "https://github.com/aman123sing/Malicious-Pdf-Detection.git"
+    }
+  },
+  {
+    "name": "Cities of tomorrow Intelligent traffic for sustainable future",
+    "desc": "To develop an intelligent density-based traffic management system.",
+    "image": "traffic",
+    "category": "Arduino",
+    "links": {
+      "view": "https://github.com/aman123sing/cities-of-tomorrowIntelligent-traffic-for-sustainable-future.git",
+      "code": "https://github.com/aman123sing/cities-of-tomorrowIntelligent-traffic-for-sustainable-future.git"
+    }
+  },
+  {
+    "name": "Enrollify",
+    "desc": "A Web-based portal that allows user to register for events and workshops. It also allows the admin to manage the events and workshops.",
+    "image": "",
+    "category": "web",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "Flipkart PHP",
+    "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
+    "image": "flipkartphp",
+    "category": "web",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  }
+]
